@@ -1,2 +1,2 @@
 # javascript-ref
-A collection for myself of references for JS.
+A collection of references for JS.
